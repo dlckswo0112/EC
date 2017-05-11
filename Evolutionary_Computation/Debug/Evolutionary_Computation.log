@@ -1,7 +1,8 @@
-﻿  소스.cpp
-c:\users\찬재\desktop\evolutionary_computation\evolutionary_computation\소스.cpp(85): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  main.cpp
+c:\users\찬재\desktop\evolutionary_computation\evolutionary_computation\main.cpp(115): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
-c:\users\찬재\desktop\evolutionary_computation\evolutionary_computation\소스.cpp(90): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\찬재\desktop\evolutionary_computation\evolutionary_computation\main.cpp(120): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\users\찬재\desktop\evolutionary_computation\evolutionary_computation\main.cpp(148): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Evolutionary_Computation.vcxproj -> C:\Users\찬재\Desktop\Evolutionary_Computation\Debug\Evolutionary_Computation.exe
   Evolutionary_Computation.vcxproj -> C:\Users\찬재\Desktop\Evolutionary_Computation\Debug\Evolutionary_Computation.pdb (Full PDB)
